@@ -7,9 +7,6 @@
   
 
 ![](https://user-images.githubusercontent.com/44041512/180688271-63c015e0-5d96-4994-8cb0-3f4a90dfe567.svg)
-
-  
-
   
 <div>
   <kbd>midnight coder</kbd> <kbd>student</kbd>
