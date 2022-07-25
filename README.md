@@ -1,13 +1,21 @@
 <div align=center>
+ 
 
   
-```
-Aspiring coder ✨ -- Student
-```
+<img src="https://user-images.githubusercontent.com/44041512/180681561-24796f9b-a9b2-47fb-9610-bd6a3f1027c3.gif" width=250>
 
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b0kch01&theme=github-light&hide_border=true)](https://git.io/streak-stats)
 
+
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=15&color=000000&center=true&vCenter=true&lines=Hello%2C+my+name+is+Nathan+Choi.;I+love+to+use+the+keyboard.;Whether+my+fingers+are+coding%2C;editing%2C+or+just+typing%2C+I+am+at+peace.+)](#)
+
+  
+<div>
+  <kbd>midnight coder</kbd> <kbd>student</kbd>
+</div>
+  
+  
 <!--   
   
   ![](https://img.shields.io/badge/-SwiftUI-lightgrey)
