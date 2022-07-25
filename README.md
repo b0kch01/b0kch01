@@ -8,7 +8,7 @@
 
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=15&color=000000&center=true&vCenter=true&lines=Hello%2C+my+name+is+Nathan+Choi.;I+love+to+use+the+keyboard.;Whether+my+fingers+are+coding%2C;editing%2C+or+just+typing%2C+I+am+at+peace.+)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=15&color=000000&center=true&vCenter=true&lines=Hello%2C+my+name+is+Nathan+Choi.;I+love+to+use+the+keyboard.;Whether+my+fingers+are+coding%2C;editing%2C+or+just+typing%2C+I+am+at+peace.+)](https://nathanchoi.me)
 
   
 <div>
