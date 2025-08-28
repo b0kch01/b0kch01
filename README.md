@@ -1,15 +1,12 @@
 <div align=center>
- 
 
   
-<img src="https://user-images.githubusercontent.com/44041512/180681561-24796f9b-a9b2-47fb-9610-bd6a3f1027c3.gif" width=250>
-
-  
+![](https://github.com/user-attachments/assets/00291eaa-8689-48bb-b32a-f2be0c65a696)
 
 ![](https://user-images.githubusercontent.com/44041512/180688271-63c015e0-5d96-4994-8cb0-3f4a90dfe567.svg)
   
 <div>
-  <kbd>typist</kbd> <kbd>student</kbd> <kbd>light-mode</kbd>
+  <kbd>student</kbd> <kbd>typist</kbd> <kbd>yes, use light-mode</kbd>
 </div>
   
   
